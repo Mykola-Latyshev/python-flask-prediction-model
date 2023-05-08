@@ -1,5 +1,5 @@
-# Flask_with_model
-Welcome to our Git Hub repository! Here, you will find a Python Flask local server that uses a machine learning model trained on XGBoost to predict diseases based on various features. There are three models included in the repository, each of which uses a different number of features: the first model uses all available features, the second uses 11 specific features, and the third predicts using only three features.
+# Flask-Based Disease Predictor: Multi-Class Classification
+Welcome to our Git Hub repository! Here, you will find a Python Flask local server that uses a machine learning model (XGBoost) to predict diseases based on various features. There are three models included in the repository, each of which uses a different number of features: the first model uses all available features, the second uses 11 specific features, and the third predicts using only three features.
 
 In addition, the repository contains a client file for use in Jupyter Notebook. By using this file, you can easily access the server and receive predictions from the model. The machine learning model is stored as a pickle file within the repository's folder.
 
